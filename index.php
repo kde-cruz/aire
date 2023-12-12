@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenida</title>
+    <link rel="stylesheet" href="stilo.css">
+</head>
+<body>
+    <nav class="menu_nav">
+        <div class="nav">
+        <span><img src="multimedia/Airesistem2.png" height="105px" width="175px"></span>
+        <h1 class="titulo">Venta , instalación , reparación y mantenimiento  de aires acondicionados ❄️ , sistemas de seguridad 🎞️ y sistemas eléctricos ⚡.</h1>
+
+     <div class="menu" >
+     <span class="bar"></span>
+     <span class="bar"></span>
+     <span class="bar"></span>
+
+    </div>
+
+
+ </div>
+ </nav>
+ <div class="menu_desplegable">
+    <ul class="nav_link">
+        <li class="link"><a href="productos.php">Productos</a></li>
+        <li class="link"><a href="servicios.php">Servicios</a></li>
+        <li class="link"><a href="atencion.php">Atencion al Cliente</a></li>
+        <li class="link"><a href="face.php">Facebook</a></li>
+        <li class="link"><a href="whats.php">Whatsapp</a></li>
+        <li class="link"><a href="insta.php">Instagram</a></li>
+        <li class="link"><a href="num.php">Numero de Telefono</a></li>
+        <li class="link"><a href="noso.php">Nosotros</a></li>
+        <li class="link"><a href="terycon.php">Terminos y Condiciones</a></li>
+        <li class="link"><a href="politica.php">Politica de Privacidad</a></li>
+    </ul>
+ </div>
+
+
+   <script src="menu.js"></script> 
+</body>
+</html>
